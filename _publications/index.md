@@ -14,8 +14,7 @@ author_profile: true
 		<strong>Outdoor Massive MIMO Testbed with Directional Beams: Design, Implementation, and Validation</strong><br>
 		S. Bisoyi, P. Muralimohan, H. K. Dureppagari, P. R. Manne and K. Kuchi <br>
 		IEEE Access <be>
-		[<a href="(https://ieeexplore.ieee.org/document/10857324)">IEEE /Xplore/</a>]<br>
-	    </p>
+		[<a href="https://ieeexplore.ieee.org/document/10857324">IEEE Xplore</a>]<br>
 
 	
 	<p> 
@@ -24,7 +23,6 @@ author_profile: true
 		*H. K. Dureppagari*, C. Saha, H. Krishnamurthy, X. F. Wang, A. Rico-Alvarino, R. M. Buehrer, and H. S. Dhillon<br>
 		submitted <be>
 		[<a href="[arXiv](https://arxiv.org/abs/2410.18301)">pdf</a>]<br>
-	    </p>
       
 <h1> <strong>Patents:</strong> </h1>
 	<p>
