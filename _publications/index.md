@@ -108,7 +108,7 @@ author_profile: true
    	<p>
 	       <strong> Massive mimo interference suppression receivers aided by network signaling</strong><br>
 		       K. Kuchi, H. K. Dureppagari, S. A. K. Makandar, and S. Amuru <br> 
-		WiSig Networks Pvt Ltd, IN patent number 202141025565, application number US17/691,529, publication number US20220393817A1. <br>
+		WiSig Networks Pvt Ltd, application number US17/691,529, publication number US20220393817A1. <br>
 		[<a href="https://patents.google.com/patent/US20220393817A1/en">Google Patents</a>]<br>
   	</p>
    	<p>
