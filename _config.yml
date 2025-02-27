@@ -188,6 +188,9 @@ collections:
   experience:
     output: true
     permalink: /:collection/:path/
+  research:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -275,7 +278,16 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true      
+      comments: true  
+  # _resarch
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true     
   # _portfolio
   - scope:
       path: ""
