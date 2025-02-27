@@ -78,8 +78,9 @@ author_profile: true
 
 		<strong>Removing the PDCCH Bottleneck and Enhancing the Capacity of 4G Massive MIMO Systems</strong><br>
 		P. R. Manne, H. K. Dureppagari, S. Amuru, and K. Kuchi<br>
-		<i>Proc. IEEE COMSNETS</i>, Bengaluru, India, Jan. 2020, pp. 237-244. [<a href="https://ieeexplore.ieee.org/document/9027449">IEEE <i>Xplore</i></a>] [<mark>Best Paper Award (Honorable Mention)</mark>]<be>
+		<i>Proc. IEEE COMSNETS</i>, Bengaluru, India, Jan. 2020, pp. 237-244. [<a href="https://ieeexplore.ieee.org/document/9027449">IEEE <i>Xplore</i></a>] [<mark>Best Paper Award (Honorable Mention)</mark>]<br>
   	</p>
+   
 <h2> <strong>Patents</strong> </h2>
 	<p>
 	       <strong> Beamformed physical downlink control channel</strong><br>
@@ -141,3 +142,22 @@ author_profile: true
 		WiSig Networks Pvt Ltd, application number US17/495,013, publication number US20220131580A1. <br> 
 		[<a href="https://patents.google.com/patent/US20220416859A1/en">Google Patents</a>]<br>
 	</p>
+
+<h2> <strong>Posters</strong> </h2>
+       	<p> 
+		<strong>NTN-based 6G Localization: Vision and Role of LEOs</strong><br>
+		H.K. Dureppagari, C. Saha, H. S. Dhillon, and R. M. Buehrer<br>
+		<i>IEEE CTW 2023</i>, Hualien, Taiwan, Jul. 2023.
+  	</p>
+       	<p> 
+		<strong>Realtime Intelligent Control for NextG Cellular Radio Access Networks</strong><br>
+		H. K. Dureppagari, U. Dinesha, R. Wu, S. Ganji, W. Ko, S. Shakkottai, and D. Bharadia<br>
+		<i>ACM MobiSys</i>, Portland, OR, USA, Jun. 2022. [<a href="https://dl.acm.org/doi/abs/10.1145/3498361.3538787">ACM</a>]
+  	</p>
+
+<h2> <strong>White Papers</strong> </h2>
+       	<p> 
+		<strong>Meeting IMT 2030 Performance Targets: The Potential of OTFDM Waveform and Structural MIMO Technologies</strong><br>
+		S. Bisoyi, M. M. Pasupuleti, K. Kuchi, K. Rao, H. K. Dureppagari, S. Kumari, S. Amuru<br>
+		<i>White Paper</i>, Jul. 2023. [<a href="https://arxiv.org/abs/2307.14978">arXiv</a>]
+  	</p>
