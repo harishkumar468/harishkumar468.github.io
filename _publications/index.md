@@ -133,3 +133,4 @@ author_profile: true
 		       K. Kuchi, S. Amuru, and H. K. Dureppagari <br> 
 		WiSig Networks Pvt Ltd, application number US17/495,013, publication number US20220131580A1. <br> 
 		[<a href="https://patents.google.com/patent/US20220416859A1/en">Google Patents</a>]<br>  
+</div>
