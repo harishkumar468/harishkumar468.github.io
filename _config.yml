@@ -11,10 +11,10 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Harish K. Dureppagari"
-description              : &description "Assistant Professor, Purdue ECE"
-URL                      : https://keerthidasala.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Graduate Research Assistant, Wireless@VT"
+URL                      : https://harishkumar468.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "keerthidasala.github.io"
+repository               : "harishkumar468.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
