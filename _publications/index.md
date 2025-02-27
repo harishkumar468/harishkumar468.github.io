@@ -16,19 +16,19 @@ author_profile: true
 
 		<strong>Two-Stage Weighted Projection for Reliable Low-Complexity Cooperative and Non-Cooperative Localization</strong><br>
 		H. K. Dureppagari, R. M. Buehrer, and H. S. Dhillon<br>
-		submitted [<a href="https://arxiv.org/abs/2502.19354v1">arXiv</a>]<br>
+		submitted. [<a href="https://arxiv.org/abs/2502.19354v1">arXiv</a>]<br>
 	</p>
  	<p>
 
 		<strong>Outdoor Massive MIMO Testbed with Directional Beams: Design, Implementation, and Validation</strong><br>
 		S. Bisoyi, P. Muralimohan, H. K. Dureppagari, P. R. Manne and K. Kuchi <br>
-		IEEE Access, vol. 13, pp. 22230-22242, Jan. 2025 [<a href="https://ieeexplore.ieee.org/document/10857324">IEEE <i>Xplore</i></a>]<br>
+		IEEE Access, vol. 13, pp. 22230-22242, Jan. 2025. [<a href="https://ieeexplore.ieee.org/document/10857324">IEEE <i>Xplore</i></a>]<br>
   	</p>
    	<p> 
 
 		<strong>LEO-based Positioning: Foundations, Signal Design, and Receiver Enhancements for 6G NTN</strong><br>
 		H. K. Dureppagari, C. Saha, H. Krishnamurthy, X. F. Wang, A. Rico-Alvariño, R. M. Buehrer, and H. S. Dhillon<br>
-		submitted [<a href="https://arxiv.org/abs/2410.18301">arXiv</a>]<br>
+		submitted. [<a href="https://arxiv.org/abs/2410.18301">arXiv</a>]<br>
   	</p>
    	<p> 
 
@@ -60,7 +60,7 @@ author_profile: true
 
 		<strong>Meeting IMT-2030 Performance Targets: The Potential of OTFDM Waveform and Structural MIMO Technologies</strong><br>
 		S. Bisoyi, P. Muralimohan, K. R. Gudimetla, S. Kumari, H. K. Dureppagari, S. T. Veetil, S. A. K. Makandar, P. R. Manne, S. Amuru, and K. Kuchi<br>
-		in <i>Proc. IEEE ITU Kaleidoscope</i> [<a href="https://ieeexplore.ieee.org/abstract/document/10772838">IEEE <i>Xplore</i></a>]<br>      
+		in <i>Proc. IEEE ITU Kaleidoscope: Innovation and Digital Transformation for a Sustainable World (ITU K)</i>, New Delhi, India, 2024, pp. 1-10. [<a href="https://ieeexplore.ieee.org/abstract/document/10772838">IEEE <i>Xplore</i></a>]<br>
   	</p>
    	<p> 
 
@@ -78,8 +78,7 @@ author_profile: true
 
 		<strong>Removing the PDCCH Bottleneck and Enhancing the Capacity of 4G Massive MIMO Systems</strong><br>
 		P. R. Manne, H. K. Dureppagari, S. Amuru, and K. Kuchi<br>
-		in <i>Proc. IEEE COMSNETS</i>, Bengaluru, India, Jan. 2020, pp. 237-244. <be>
-		[<a href="https://ieeexplore.ieee.org/document/9027449">IEEE <i>Xplore</i></a>] [<mark>Best Paper Award (Honorable Mention)</mark>]<br>
+		in <i>Proc. IEEE COMSNETS</i>, Bengaluru, India, Jan. 2020, pp. 237-244. [<a href="https://ieeexplore.ieee.org/document/9027449">IEEE <i>Xplore</i></a>] [<mark>Best Paper Award (Honorable Mention)</mark>]<br>
   
 <h2> <strong>Patents</strong> </h2>
 	<p>
@@ -142,4 +141,3 @@ author_profile: true
 		WiSig Networks Pvt Ltd, application number US17/495,013, publication number US20220131580A1. <br> 
 		[<a href="https://patents.google.com/patent/US20220416859A1/en">Google Patents</a>]<br>
 	</p>
-</div>
