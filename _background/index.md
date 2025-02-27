@@ -3,10 +3,7 @@ layout: archive
 title: Background
 permalink: /background/
 author_profile: true
----
-<div class="cv">
-    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
-	
+---	
 <h2> <strong> Education</strong> </h2>
 <ul>
   <li>
@@ -56,5 +53,3 @@ author_profile: true
 <ul>
 <li> Best Paper Award (Honorable Mention), COMSNETS, 2020  </li>		
 </ul>
-
-</div>
