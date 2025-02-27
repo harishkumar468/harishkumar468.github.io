@@ -185,6 +185,9 @@ collections:
   background:
     output: true
     permalink: /:collection/:path/
+  experience:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -259,6 +262,15 @@ defaults:
   - scope:
       path: ""
       type: background
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true   
+  # _experience
+  - scope:
+      path: ""
+      type: experience
     values:
       layout: single
       author_profile: true
