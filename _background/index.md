@@ -25,7 +25,7 @@ author_profile: true
   </li>
 </ul>
 
-<h2> <strong> Awards</strong> </h2>
+<h1> <strong> Awards</strong> </h1>
 <ul>
 <li> Best Paper Award (Honorable Mention), COMSNETS, 2020  </li>		
 </ul>
