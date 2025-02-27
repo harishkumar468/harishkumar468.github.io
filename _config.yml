@@ -85,7 +85,7 @@ author:
   avatar           : "Harish_Image.jpg"
   bio              : "Graduate Research Assistant, Wireless@VT"
   # location         : "Blacksburg, VA"
-  employer         : "Virginia Tech, Blacksburg, VA"
+  employer         : "Virginia Tech"
   pubmed          : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=RIZ4-acAAAAJ"
   email            : "harishkumard@vt.edu"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "harishkumar468"
+#  github           : "harishkumar468"
   google_plus      :
   keybase          :
   instagram        :
