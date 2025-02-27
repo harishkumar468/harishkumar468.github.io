@@ -53,33 +53,33 @@ author_profile: true
 		<strong>Design and implementation of beamformed physical downlink control channel for 4G massive MIMO systems</strong><br>
 		P. R. Manne, H. K. Dureppagari, S. Amuru, and K. Kuchi<br>
 		<i>Ad Hoc Networks</i>, vol. 111, Feb. 2021. [<a href="https://www.sciencedirect.com/science/article/abs/pii/S1570870520307034">ELSEVIER</a>]<br>
- 
+	</p>
 
 <h2> <strong> Conference Publications</strong> </h2>
   	<p> 
 
 		<strong>Meeting IMT-2030 Performance Targets: The Potential of OTFDM Waveform and Structural MIMO Technologies</strong><br>
 		S. Bisoyi, P. Muralimohan, K. R. Gudimetla, S. Kumari, H. K. Dureppagari, S. T. Veetil, S. A. K. Makandar, P. R. Manne, S. Amuru, and K. Kuchi<br>
-		in <i>Proc. IEEE ITU Kaleidoscope: Innovation and Digital Transformation for a Sustainable World (ITU K)</i>, New Delhi, India, 2024, pp. 1-10. [<a href="https://ieeexplore.ieee.org/abstract/document/10772838">IEEE <i>Xplore</i></a>]<br>
+		<i>Proc. IEEE ITU Kaleidoscope: Innovation and Digital Transformation for a Sustainable World (ITU K)</i>, New Delhi, India, 2024, pp. 1-10. [<a href="https://ieeexplore.ieee.org/abstract/document/10772838">IEEE <i>Xplore</i></a>]<br>
   	</p>
    	<p> 
 
 		<strong>UAV-Based 5G Localization for Emergency Response Using Signals of Opportunity</strong><br>
 		H. K. Dureppagari, C. Saha, H. S. Dhillon, and R. M. Buehrer<br>
-		in <i>Proc. IEEE DySPAN</i>, Washington, DC, USA, May. 2024, pp. 63-68. [<a href="https://ieeexplore.ieee.org/document/10632801">IEEE <i>Xplore</i></a>]<br>
+		<i>Proc. IEEE DySPAN</i>, Washington, DC, USA, May. 2024, pp. 63-68. [<a href="https://ieeexplore.ieee.org/document/10632801">IEEE <i>Xplore</i></a>]<br>
     	</p>
      	<p> 
 
 		<strong>UAV-Aided Indoor Localization of Emergency Response Personnel</strong><br>
 		H. K. Dureppagari, D.-R. Emenonye, H. S. Dhillon, and R. M. Buehrer<br>
-		in <i>Proc. IEEE/ION PLANS</i>, Monterey, CA, USA, Apr. 2023, pp. 1241-1249. [<a href="https://ieeexplore.ieee.org/document/10139944">IEEE <i>Xplore</i></a>]<br>
+		<i>Proc. IEEE/ION PLANS</i>, Monterey, CA, USA, Apr. 2023, pp. 1241-1249. [<a href="https://ieeexplore.ieee.org/document/10139944">IEEE <i>Xplore</i></a>]<br>
       	</p>
        	<p> 
 
 		<strong>Removing the PDCCH Bottleneck and Enhancing the Capacity of 4G Massive MIMO Systems</strong><br>
 		P. R. Manne, H. K. Dureppagari, S. Amuru, and K. Kuchi<br>
-		in <i>Proc. IEEE COMSNETS</i>, Bengaluru, India, Jan. 2020, pp. 237-244. [<a href="https://ieeexplore.ieee.org/document/9027449">IEEE <i>Xplore</i></a>] [<mark>Best Paper Award (Honorable Mention)</mark>]<br>
-  
+		<i>Proc. IEEE COMSNETS</i>, Bengaluru, India, Jan. 2020, pp. 237-244. [<a href="https://ieeexplore.ieee.org/document/9027449">IEEE <i>Xplore</i></a>] [<mark>Best Paper Award (Honorable Mention)</mark>]<be>
+  	</p>
 <h2> <strong>Patents</strong> </h2>
 	<p>
 	       <strong> Beamformed physical downlink control channel</strong><br>
