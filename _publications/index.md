@@ -4,14 +4,12 @@ title: Publications
 permalink: /publications/
 author_profile: true
 ---
-<div class="cv">
-    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
 	
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=RIZ4-acAAAAJ">my Google Scholar profile</a>.</div>
 {% endif %}
 	
-<h2> <strong> Journal Publications:</strong> </h2>
+<h2> <strong> Journal Publications</strong> </h2>
 	<p>
 
 		<strong>Two-Stage Weighted Projection for Reliable Low-Complexity Cooperative and Non-Cooperative Localization</strong><br>
@@ -56,7 +54,7 @@ author_profile: true
 		[<a href="https://www.sciencedirect.com/science/article/abs/pii/S1570870520307034">ELSEVIER</a>]<br>
  
 
-<h2> <strong> Conference Publications:</strong> </h2>
+<h2> <strong> Conference Publications</strong> </h2>
   	<p> 
 
 		<strong>Meeting IMT-2030 Performance Targets: The Potential of OTFDM Waveform and Structural MIMO Technologies</strong><br>
@@ -82,7 +80,7 @@ author_profile: true
 		in <i>Proc. IEEE COMSNETS</i>, Bengaluru, India, Jan. 2020, pp. 237-244. <be>
 		[<a href="https://ieeexplore.ieee.org/document/9027449">IEEE <i>Xplore</i></a>] [<mark>Best Paper Award (Honorable Mention)</mark>]<br>
   
-<h2> <strong>Patents:</strong> </h2>
+<h2> <strong>Patents</strong> </h2>
 	<p>
 	       <strong> Beamformed physical downlink control channel</strong><br>
 		       P. R. Manne, H. K. Dureppagari, S. D. Amuru, and K. Kuchi <br> 
@@ -133,4 +131,3 @@ author_profile: true
 		       K. Kuchi, S. Amuru, and H. K. Dureppagari <br> 
 		WiSig Networks Pvt Ltd, application number US17/495,013, publication number US20220131580A1. <br> 
 		[<a href="https://patents.google.com/patent/US20220416859A1/en">Google Patents</a>]<br>  
-</div>
