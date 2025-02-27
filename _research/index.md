@@ -22,7 +22,7 @@ author_profile: true
             <li> Design insights for LEO-based NTN positioning: LEO Constellation, Navigation Signaling, Initial Acquisition, Precise Positioning. </li>
         </ul>
     </li>
-    <li> Developed 3GPP-compliant simulation frameworks to assess the positioning performance. </li>
+    <li> 3GPP-compliant simulation frameworks to assess the positioning performance. </li>
 </ul>
 
 <h2><strong>ORAN ULPI Architectures <i>(Summer 2023)</i></strong></h2>
