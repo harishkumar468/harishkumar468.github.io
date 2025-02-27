@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 author_profile: true
 ---
+<div class="cv">
+    <script src="https://kit.fontawesome.com/a076d05399.js"></script>
 	
 {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=RIZ4-acAAAAJ">my Google Scholar profile</a>.</div>
@@ -131,3 +133,4 @@ author_profile: true
 		       K. Kuchi, S. Amuru, and H. K. Dureppagari <br> 
 		WiSig Networks Pvt Ltd, application number US17/495,013, publication number US20220131580A1. <br> 
 		[<a href="https://patents.google.com/patent/US20220416859A1/en">Google Patents</a>]<br>  
+</div>
