@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: Academic Background
+title: Education
 permalink: /background/
 author_profile: true
 ---
-<h2> <strong>Education</strong> </h2>
+
 <ul>
   <li>
     <a href="https://www.vt.edu/">Virginia Tech</a> <i>(Fall 2022 - Present)</i> <br>

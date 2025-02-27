@@ -5,7 +5,6 @@ permalink: /experience/
 author_profile: true
 ---
 
-<h2> <strong> Professional Experience</strong> </h2>
 <ul>
   <li>
     <a href="https://www.qualcomm.com/">Qualcomm Incorporated</a>, San Diego, CA <br>
