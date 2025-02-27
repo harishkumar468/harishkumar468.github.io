@@ -53,5 +53,6 @@ author_profile: true
 </ul>
 
 <h2> <strong> Awards</strong> </h2>
+<ul>
 <li> Best Paper Award (Honorable Mention), COMSNETS, 2020  </li>		
 </ul>
