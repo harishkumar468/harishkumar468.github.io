@@ -1,11 +1,15 @@
 ---
 layout: archive
-title: Publications
+title: # Publications
 permalink: /publications/
 author_profile: true
 ---
 <div class="cv">
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
+	
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="https://scholar.google.com/citations?hl=en&user=RIZ4-acAAAAJ">my Google Scholar profile</a>.</div>
+{% endif %}
 	
 <h2> <strong> Journal Publications:</strong> </h2>
 	<p>
@@ -79,5 +83,54 @@ author_profile: true
 		[<a href="https://ieeexplore.ieee.org/document/9027449">IEEE <i>Xplore</i></a>] [<mark>Best Paper Award (Honorable Mention)</mark>]<br>
   
 <h2> <strong>Patents:</strong> </h2>
-
+	<p>
+	       <strong> Beamformed physical downlink control channel</strong><br>
+		       P. R. Manne, H. K. Dureppagari, S. D. Amuru, and K. Kuchi </br> 
+		WiSig Networks Pvt Ltd, IIT Hyderabad, application number US17/290,290, publication number US20210266049A1. </br> 
+		[<a href="https://patents.google.com/patent/US20250039875A1/en">Google Patents</a>]<br>
+	<p>
+	       <strong> METHOD FOR ADAPTIVE COVERAGE VIA A BASE STATION </strong><br>
+		       K. Kuchi, S. Amuru, K. R. Gudimetla, S. Kumawat, P. R. Manne, S. A. K. Makandar, and H. K. Dureppagari </br> 
+		WiSig Networks Pvt Ltd, application number US18/791,189, Published November 28, 2024. </br> 
+		[<a href="https://www.freepatentsonline.com/y2024/0397438.html">FPO Patents</a>]<br>
+	<p>
+	       <strong> BASE STATION WITH ADAPTIVE COVERAGE </strong><br>
+		       K. Kuchi, S. Amuru, K. R. Gudimetla, S. Kumawat, P. R. Manne, S. A. K. Makandar, and H. K. Dureppagari </br> 
+		WiSig Networks Pvt Ltd, application number US18/795,586, Published November 28, 2024. </br> 
+		[<a href="https://www.freepatentsonline.com/y2024/0397439.html">FPO Patents</a>]<br>  
+  	<p>
+	       <strong> Intelligent control for cellular radio access networks </strong><br>
+		       S. G. Shakkottai, W. H. Ko, H. K. Dureppagari, U. Dinesha, V. S. S. Ganji, D. Bharadia, R. Y. Wu, and U. Ghosh </br> 
+		Texas A&M University System, application number US18/437,149, publication number US20240267794A1. </br> 
+		[<a href="https://patents.google.com/patent/US20240267794A1/en">Google Patents</a>]<br>
+  	<p>
+	       <strong> Massive mimo interference suppression receivers aided by network signaling</strong><br>
+		       K. Kuchi, H. K. Dureppagari, S. A. K. Makandar, and S. Amuru </br> 
+		WiSig Networks Pvt Ltd, IN patent number 202141025565, application number US17/691,529, publication number US20220393817A1. </br> 
+		[<a href="https://patents.google.com/patent/US20220393817A1/en">Google Patents</a>]<br>
+  	<p>
+	       <strong> Methods for improving coverage of a cellular network and systems thereof</strong><br>
+		       K. Kuchi, S. Amuru, K. R. Gudimetla, S. Kumawat, P. R. Manne, S. A. K. Makandar, and H. K. Dureppagari </br> 
+		WiSig Networks Pvt Ltd, IIT Hyderabad, application number IN2021/050757, publication number WO2022029806A1. </br> 
+		[<a href="https://patents.google.com/patent/WO2022029806A1/en">Google Patents</a>]<br>
+  	<p>
+	       <strong> Method for wireless communication using beamformed physical downlink control channel (PDCCH)</strong><br>
+		       P. R. Manne, H. K. Dureppagari, S. D. Amuru, and K. Kuchi </br> 
+		WiSig Networks Pvt Ltd, IIT Hyderabad, application number US17/290,290, publication number US20210266049A1. </br> 
+		[<a href="https://patents.google.com/patent/US20210392669A1/en">Google Patents</a>]<br>
+  	<p>
+	       <strong> Method and system for scheduling a pool of resources to a plurality of user equipments</strong><br>
+		       K. Kuchi, S. Amuru, H. K. Dureppagari, and P. R. Manne </br> 
+		WiSig Networks Pvt Ltd, IIT Hyderabad, application number US17/264,067, publication number US20210321423A1.  </br> 
+		[<a href="https://patents.google.com/patent/US20210321423A1/en">Google Patents</a>]<br>
+    	<p>
+	       <strong> Method for allocating resources to a plurality of users by a base station</strong><br>
+		       K. Kuchi, S. Amuru, H. K. Dureppagari, and P. R. Manne </br> 
+		WiSig Networks Pvt Ltd, IIT Hyderabad, application number US17/172,404, publication number US20210392669A1.  </br> 
+		[<a href="https://patents.google.com/patent/US20210266049A1/en">Google Patents</a>]<br>
+    	<p>
+	       <strong> Method of signal processing by a massive mimo base station receiver</strong><br>
+		       K. Kuchi, S. Amuru, and H. K. Dureppagari </br> 
+		WiSig Networks Pvt Ltd, application number US17/495,013, publication number US20220131580A1.  </br> 
+		[<a href="https://patents.google.com/patent/US20220416859A1/en">Google Patents</a>]<br>  
 </div>
