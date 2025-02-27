@@ -12,7 +12,7 @@ author_profile: true
         <ul>
             <li> Drones as first responders or locating first responders </li>
             <li> Cramér–Rao lower bound (CRLB) based analyses by considering various system parameters. </li>
-            <li> Algorithm development to meet CRLB: Two-Stage Weighted Projection (TS-WPM), Reformulated IPPM. </li>
+            <li> Algorithms for enhanced accuracy with low-complexity: Two-Stage Weighted Projection (TS-WPM), Reformulated IPPM. </li>
         </ul>
 	<strong><i>Resulted Publications</i></strong>: <a href="https://arxiv.org/abs/2502.19354v1">Low-Complexity TS-WPM</a>, <a href="https://ieeexplore.ieee.org/document/10632801">Analytical Framework + Reformulated IPPM</a>, <a href="https://ieeexplore.ieee.org/document/10139944">CRLB Sensitivity Analysis</a> <br>
 	<strong><i>Collaborators</i></strong>: Prof. Harpreet S. Dhillon and Prof. R. Michael Buehrer
