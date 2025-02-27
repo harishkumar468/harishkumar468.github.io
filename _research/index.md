@@ -14,7 +14,7 @@ author_profile: true
             <li> Cramer Rao lower bound (CRLB) based analyses by considering various system parameters. </li>
             <li> Algorithm development to meet CRLB: Two-Stage Weighted Projection (TS-WPM), Reformulated IPPM. </li>
         </ul>
-	References: <a href="https://arxiv.org/abs/2502.19354v1">Low-Complexity TS-WPM</a>, <a href="https://ieeexplore.ieee.org/document/10632801">Analytical Framework + Reformulated IPPM</i></a>, <a href="https://ieeexplore.ieee.org/document/10139944">CRLB Sensitivity Analysis</i></a>
+	References: <a href="https://arxiv.org/abs/2502.19354v1">Low-Complexity TS-WPM</a>, <a href="https://ieeexplore.ieee.org/document/10632801">Analytical Framework + Reformulated IPPM</a>, <a href="https://ieeexplore.ieee.org/document/10139944">CRLB Sensitivity Analysis</a>
     </li>
     <li> NTN-based 6G localization
         <ul>
@@ -22,7 +22,7 @@ author_profile: true
             <li> Identified prospective study items for NTN-based accurate positioning in 6G: Multi-LEO positioning, GNSS + LEO positioning. </li>
             <li> Design insights for LEO-based NTN positioning: LEO constellation, navigation signaling, initial acquisition, precise positioning. </li>
         </ul>
-	References: <a href="https://arxiv.org/abs/2410.18301">LEO Positioning Design Insights</a>, <a href="https://ieeexplore.ieee.org/document/10355106">Study Items for NTN-based 6G Localization</i></a>
+	References: <a href="https://arxiv.org/abs/2410.18301">LEO Positioning Design Insights</a>, <a href="https://ieeexplore.ieee.org/document/10355106">Study Items for NTN-based 6G Localization</a>
     </li>
     <li> 3GPP-compliant simulation frameworks to assess the positioning performance. </li>
 </ul>
@@ -64,4 +64,4 @@ Developed a 3GPP-compliant downlink and uplink SLS for design validation of mass
         </ul>
     </li>
 </ul>
-References: <a href="https://ieeexplore.ieee.org/document/9027449">Enhancing DL PDCCH Capacity</i></a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S1570870520307034">Beamformed PDCCH</a>, <a href="https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-022-02133-3">UL Coverage Enhancements</a>, <a href="https://ieeexplore.ieee.org/document/10419340">Massive MIMO with Circular Antenna Array</i></a>, <a href="https://ieeexplore.ieee.org/document/10857324">Outdoor Massive MIMO</i></a>, <a href="https://ieeexplore.ieee.org/abstract/document/10772838">OTFDM & Structural MIMO</i></a>
+References: <a href="https://ieeexplore.ieee.org/document/9027449">Enhancing DL PDCCH Capacity</a>, <a href="https://www.sciencedirect.com/science/article/abs/pii/S1570870520307034">Beamformed PDCCH</a>, <a href="https://jwcn-eurasipjournals.springeropen.com/articles/10.1186/s13638-022-02133-3">UL Coverage Enhancements</a>, <a href="https://ieeexplore.ieee.org/document/10419340">Massive MIMO with Circular Antenna Array</a>, <a href="https://ieeexplore.ieee.org/document/10857324">Outdoor Massive MIMO</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10772838">OTFDM & Structural MIMO</a>
