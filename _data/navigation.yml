@@ -11,8 +11,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Overview"
-    url: /overview/
+  # - title: "Overview"
+  #   url: /overview/
     
   # - title: "Portfolio"
   #   url: /portfolio/
