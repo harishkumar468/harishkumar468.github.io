@@ -8,7 +8,7 @@ plugins:
   - jekyll-sitemap
 # Site Settings
 locale                   : "en-US"
-title                    : "Harish K. Dureppagari"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Harish K. Dureppagari"
 description              : &description "Assistant Professor, Purdue ECE"
