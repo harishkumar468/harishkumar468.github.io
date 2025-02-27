@@ -11,7 +11,7 @@ author_profile: true
     <li> UAV-aided indoor localization for emergency applications
         <ul>
             <li> Drones as first responders or locating first responders </li>
-            <li> Cramer Rao lower bound (CRLB) based analyses by considering various system parameters. </li>
+            <li> Cramér–Rao lower bound (CRLB) based analyses by considering various system parameters. </li>
             <li> Algorithm development to meet CRLB: Two-Stage Weighted Projection (TS-WPM), Reformulated IPPM. </li>
         </ul>
 	References: <a href="https://arxiv.org/abs/2502.19354v1">Low-Complexity TS-WPM</a>, <a href="https://ieeexplore.ieee.org/document/10632801">Analytical Framework + Reformulated IPPM</a>, <a href="https://ieeexplore.ieee.org/document/10139944">CRLB Sensitivity Analysis</a>
