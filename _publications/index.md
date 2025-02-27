@@ -43,8 +43,12 @@ author_profile: true
 
 		<strong>Design and implementation of beamformed physical downlink control channel for 4G massive MIMO systems</strong><br>
 		P. R. Manne, H. K. Dureppagari, S. Amuru, and K. Kuchi<br>
-		<i>Ad Hoc Networks<i>, vol. 111, Feb. 2021. <be>
-		[<a href="https://www.sciencedirect.com/science/article/abs/pii/S1570870520307034">ELSEVIER</a>]<br>      
+		<i>Ad Hoc Networks</i>, vol. 111, Feb. 2021. <be>
+		[<a href="https://www.sciencedirect.com/science/article/abs/pii/S1570870520307034">ELSEVIER</a>]<br>
+    	<p> 
+
+		 H. K. Dureppagari, C. Saha, H. S. Dhillon, and R. M. Buehrer, "NTN-Based 6G Localization: Vision, Role of LEOs, and Open Problems," <i>IEEE Wireless Communications</i>, vol. 30, no. 6, pp. 44-51, Dec. 2023, doi: 10.1109/MWC.007.2300224 <br>
+ 
 
 <h2> <strong> Conference Publications:</strong> </h2>
   	<p> 
