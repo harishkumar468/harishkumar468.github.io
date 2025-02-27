@@ -10,14 +10,14 @@ author_profile: true
 <ul>
 <li> UAV-aided indoor localization for emergency applications such as locating first responders
 	<ul>
-		Cramer Rao lower bound (CRLB) based analyses by considering various system parameters.
-		Algorithm development to meet CRLB: Two-Stage Weighted Projection, Reformulated IPPM
+		<li> Cramer Rao lower bound (CRLB) based analyses by considering various system parameters. </li>
+		<li> Algorithm development to meet CRLB: Two-Stage Weighted Projection, Reformulated IPPM. </li>
 	</ul>
 </li>
 <li> NTN-based 6G localization
 	<ul>
-		Identified prospective study items for NTN-based accurate positioning in 6G.
-		Design insights for LEO-based NTN positioning: LEO Constellation, Navigation Signaling, Initial Acquisition, Precise Positioning
+		<li> Identified prospective study items for NTN-based accurate positioning in 6G. </li>
+		<li> Design insights for LEO-based NTN positioning: LEO Constellation, Navigation Signaling, Initial Acquisition, Precise Positioning. </li>
 	</ul>
 </li>
 <li>
