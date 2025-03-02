@@ -78,8 +78,7 @@ Developed a 3GPP-compliant downlink and uplink SLS for design validation of mass
 Structural MIMO (S-MIMO) to overcome practical limitations of current 5G MU-MIMO systems and enhance network capacity.  
 <ul>
     <li> Highly directional beams associated with each antenna port/panel to maximize coverage and improve spectral efficiency. </li>
-    <li> Three-dimensional structural arrangements of multiple antenna panels to enable full coverage in both azimuth and elevation. </li>
-    <li> Joint baseband processing across multiple antenna panels, incorporating TDD reciprocity calibration, MU-MIMO precoding in the downlink, and joint uplink signal processing. </li>
+    <li> Assisted in the design and implementation of an MU-MIMO downlik precoder leveraging TDD reciprocity. </li>
 </ul>
 <strong><i>Resulted Publications</i></strong>: <a href="https://ieeexplore.ieee.org/document/10419340">Massive MIMO with Circular Antenna Array</a>, <a href="https://ieeexplore.ieee.org/document/10857324">Outdoor Massive MIMO</a>, <a href="https://ieeexplore.ieee.org/abstract/document/10772838">OTFDM & Structural MIMO</a> <br>
 <strong><i>Collaborators</i></strong>: Spandan Bisoyi, P Muralimohan, Dr. Pavan Reddy Manne, Dr. SaiDhiraj Amuru, and Prof. Kiran Kuchi
