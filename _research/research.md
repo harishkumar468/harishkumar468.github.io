@@ -19,8 +19,8 @@ author_profile: true
     </li>
     <li> NTN-based 6G localization
         <ul>
-            <li> Feasibility of developing a positioning infrastructure complementary/potential replacement to GNSS. </li>
-            <li> Identified prospective study items for NTN-based accurate positioning in 6G: Multi-LEO positioning, GNSS + LEO positioning. </li>
+            <li> Feasibility of developing a positioning infrastructure complementary to or a potential replacement for GNSS. </li>
+            <li> Prospective study items for NTN-based accurate positioning in 6G: Multi-LEO positioning, GNSS + LEO positioning. </li>
             <li> Design insights for LEO-based NTN positioning: LEO constellation, navigation signaling, initial acquisition, precise positioning. </li>
         </ul>
 	<strong><i>Resulted Publications</i></strong>: <a href="https://arxiv.org/abs/2410.18301">LEO Positioning Design Insights</a>, <a href="https://ieeexplore.ieee.org/document/10355106">Study Items for NTN-based 6G Localization</a> <br>
