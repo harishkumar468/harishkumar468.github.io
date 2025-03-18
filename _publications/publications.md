@@ -14,6 +14,12 @@ author_profile: true
 <h2> <strong> Journal Publications</strong> </h2>
 	<p>
 
+		<strong>Indoor Positioning for Public Safety: Role of UAVs, LEOs, and Propagation-Aware Techniques</strong><br>
+		G. Duggal, H. K. Dureppagari, H. S. Dhillon, J. H. Reed, R. M. Buehrer<br>
+		submitted. [<a href="https://arxiv.org/abs/2503.12264">arXiv</a>]<br>
+	</p>
+	<p>
+
 		<strong>Two-Stage Weighted Projection for Reliable Low-Complexity Cooperative and Non-Cooperative Localization</strong><br>
 		H. K. Dureppagari, R. M. Buehrer, and H. S. Dhillon<br>
 		submitted. [<a href="https://arxiv.org/abs/2502.19354v1">arXiv</a>]<br>
