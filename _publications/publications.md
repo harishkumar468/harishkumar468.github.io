@@ -28,25 +28,25 @@ author_profile: true
 
 		<strong>Outdoor Massive MIMO Testbed with Directional Beams: Design, Implementation, and Validation</strong><br>
 		S. Bisoyi, P. Muralimohan, H. K. Dureppagari, P. R. Manne and K. Kuchi <br>
-		IEEE Access, vol. 13, pp. 22230-22242, Jan. 2025. [<a href="https://ieeexplore.ieee.org/document/10857324">IEEE <i>Xplore</i></a>]<br>
+		<i>IEEE Access</i>, vol. 13, pp. 22230-22242, Jan. 2025. [<a href="https://ieeexplore.ieee.org/document/10857324">IEEE <i>Xplore</i></a>]<br>
   	</p>
    	<p> 
 
 		<strong>LEO-based Positioning: Foundations, Signal Design, and Receiver Enhancements for 6G NTN</strong><br>
 		H. K. Dureppagari, C. Saha, H. Krishnamurthy, X. F. Wang, A. Rico-Alvariño, R. M. Buehrer, and H. S. Dhillon<br>
-		submitted. [<a href="https://arxiv.org/abs/2410.18301">arXiv</a>]<br>
+		<i>IEEE Communications Magazine</i>, to appear. [<a href="https://arxiv.org/abs/2410.18301">arXiv</a>]<br>
   	</p>
    	<p> 
 
 		<strong>Massive MIMO With Circular Antenna Array: Design, Implementation, and Validation</strong><br>
 		S. Bisoyi, P. Muralimohan, H. K. Dureppagari, P. R. Manne, S. Amuru, and K. Kuchi<br>
-		IEEE Access, vol. 12, pp. 21070-21083, Feb. 2024. [<a href="https://ieeexplore.ieee.org/document/10419340">IEEE <i>Xplore</i></a>]<br>
+		<i>IEEE Access</i>, vol. 12, pp. 21070-21083, Feb. 2024. [<a href="https://ieeexplore.ieee.org/document/10419340">IEEE <i>Xplore</i></a>]<br>
   	</p>
    	<p> 
 
 		<strong>NTN-based 6G Localization: Vision, Role of LEOs, and Open Problems</strong><br>
 		H. K. Dureppagari, C. Saha, H. S. Dhillon, and R. M. Buehrer<br>
-		IEEE Wireless Communications, vol. 30, no. 6, pp. 44-51, Dec. 2023. [<a href="https://ieeexplore.ieee.org/document/10355106">IEEE <i>Xplore</i></a>] [<a href="https://arxiv.org/abs/2305.12259">arXiv</a>]<br>  
+		<i>IEEE Wireless Communications</i>, vol. 30, no. 6, pp. 44-51, Dec. 2023. [<a href="https://ieeexplore.ieee.org/document/10355106">IEEE <i>Xplore</i></a>] [<a href="https://arxiv.org/abs/2305.12259">arXiv</a>]<br>  
   	</p>
    	<p> 
 
