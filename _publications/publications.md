@@ -24,17 +24,17 @@ author_profile: true
 		H. K. Dureppagari, R. M. Buehrer, and H. S. Dhillon<br>
 		submitted. [<a href="https://arxiv.org/abs/2502.19354v1">arXiv</a>]<br>
 	</p>
- 	<p>
-
-		<strong>Outdoor Massive MIMO Testbed with Directional Beams: Design, Implementation, and Validation</strong><br>
-		S. Bisoyi, P. Muralimohan, H. K. Dureppagari, P. R. Manne and K. Kuchi <br>
-		<i>IEEE Access</i>, vol. 13, pp. 22230-22242, Jan. 2025. [<a href="https://ieeexplore.ieee.org/document/10857324">IEEE <i>Xplore</i></a>]<br>
-  	</p>
    	<p> 
 
 		<strong>LEO-based Positioning: Foundations, Signal Design, and Receiver Enhancements for 6G NTN</strong><br>
 		H. K. Dureppagari, C. Saha, H. Krishnamurthy, X. F. Wang, A. Rico-Alvariño, R. M. Buehrer, and H. S. Dhillon<br>
 		<i>IEEE Communications Magazine</i>, to appear. [<a href="https://arxiv.org/abs/2410.18301">arXiv</a>]<br>
+  	</p>
+ 	<p>
+
+		<strong>Outdoor Massive MIMO Testbed with Directional Beams: Design, Implementation, and Validation</strong><br>
+		S. Bisoyi, P. Muralimohan, H. K. Dureppagari, P. R. Manne and K. Kuchi <br>
+		<i>IEEE Access</i>, vol. 13, pp. 22230-22242, Jan. 2025. [<a href="https://ieeexplore.ieee.org/document/10857324">IEEE <i>Xplore</i></a>]<br>
   	</p>
    	<p> 
 
