@@ -14,6 +14,12 @@ author_profile: true
 <h2> <strong> Journal Publications</strong> </h2>
 	<p>
 
+		<strong>On the Use of Björck Sequences in LEO-based PNT Systems</strong><br>
+		H. K. Dureppagari, C. Saha, R. M. Buehrer, and H. S. Dhillon<br>
+		submitted. [<a href="https://arxiv.org/abs/2506.00706">arXiv</a>]<br>
+	</p>
+	<p>
+
 		<strong>Indoor Positioning for Public Safety: Role of UAVs, LEOs, and Propagation-Aware Techniques</strong><br>
 		G. Duggal, H. K. Dureppagari, H. S. Dhillon, J. H. Reed, R. M. Buehrer<br>
 		submitted. [<a href="https://arxiv.org/abs/2503.12264">arXiv</a>]<br>
@@ -22,7 +28,7 @@ author_profile: true
 
 		<strong>Two-Stage Weighted Projection for Reliable Low-Complexity Cooperative and Non-Cooperative Localization</strong><br>
 		H. K. Dureppagari, R. M. Buehrer, and H. S. Dhillon<br>
-		submitted. [<a href="https://arxiv.org/abs/2502.19354v1">arXiv</a>]<br>
+		under review. [<a href="https://arxiv.org/abs/2502.19354v1">arXiv</a>]<br>
 	</p>
    	<p> 
 

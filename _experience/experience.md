@@ -8,11 +8,15 @@ author_profile: true
 <ul>
   <li>
     <a href="https://www.qualcomm.com/">Qualcomm Incorporated</a>, San Diego, CA <br>
-    <i>Interim Engineering Intern</i>, May. 2024 - Aug. 2024
+    <i>Interim Engineering Intern, Qualcomm Standards</i>, May. 2025 - Aug. 2025
+  </li>
+  <li>
+    <a href="https://www.qualcomm.com/">Qualcomm Incorporated</a>, San Diego, CA <br>
+    <i>Interim Engineering Intern, Qualcomm Standards</i>, May. 2024 - Aug. 2024
   </li>	  
   <li>
     <a href="https://www.nokia.com/">Nokia of America Corporation</a>, Naperville, IL <br>
-    <i>5G/6G Radio Research Summer Intern</i>, Jun. 2023 - Aug. 2023
+    <i>5G/6G Radio Research Summer Intern, Nokia Standards</i>, Jun. 2023 - Aug. 2023
   </li>
   <li>
     <a href="http://5g.iith.ac.in/">5G Testbed at IIT Hyderabad</a>, Hyderabad, India <br>
