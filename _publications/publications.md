@@ -72,13 +72,13 @@ author_profile: true
 
 		<strong>Applicability of Björck Sequences to NTN-Based Localization</strong><br>
 		H. K. Dureppagari, C. Saha, R. M. Buehrer, and H. S. Dhillon <br>
-		<i>in Proc., IEEE MILCOM</i>, Los Angeles, CA, USA, Oct. 2025.<br>
+		<i>in Proc. IEEE MILCOM</i>, Los Angeles, CA, USA, Oct. 2025.<br>
   	</p>
   	<p> 
 
 		<strong>A Novel Positioning Framework: Two-Stage Weighted Projection with NLOS Bias Modeling</strong><br>
 		H. K. Dureppagari, R. M. Buehrer, and H. S. Dhillon <br>
-		<i>in Proc., IEEE ICC Workshops</i>, Montreal, Canada, Jun. 2025.<br>
+		<i>in Proc. IEEE ICC Workshops</i>, Montreal, Canada, Jun. 2025.<br>
   	</p>
   	<p> 
 
