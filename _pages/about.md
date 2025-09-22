@@ -20,10 +20,46 @@ I have also held summer internship positions at <a href="https://www.nokia.com/"
 </ul>
 
 News and Updates
+=
 <h2><strong>2025</strong></h2>
 <ul>
-  <li> [Sep 2025] <a href="https://arxiv.org/abs/2502.19354v1">Paper</a> on two-stage localization framework is accepted for publication in IEEE Transactions on Wireless Communications</li>
-  <li> [Aug 2025] Paper on Björck sequences for positioning is accepted for publication in IEEE MILCOM 2025</li>
-  <li> [May 2025] Joined <a href="https://www.qualcomm.com/">Qualcomm</a> standards team in San Diego, CA as a summer intern</li>
+  <li> [Sep 2025] <a href="https://arxiv.org/abs/2502.19354v1">Paper</a> on two-stage localization framework is accepted for publication in IEEE Transactions on Wireless Communications </li>
+  <li> [Aug 2025] Paper on Björck sequences for positioning is accepted for publication at IEEE MILCOM 2025, Los Angeles, CA </li>
+  <li> [May 2025] Joined <a href="https://www.qualcomm.com/">Qualcomm</a> standards team in San Diego, CA as a summer intern </li>
   <li> [May 2025] Passed PhD preliminary exam </li>
+  <li> [Apr 2025] <a href="https://arxiv.org/abs/2410.18301">Paper</a> on LEO positioning design insights is accepted for publication in IEEE Communications Magazine </li>
+  <li> [Mar 2025] Paper on two-stage localization approach is accepted for publication at IEEE ICC Workshops 2025, Montreal, Canada </li>
+</ul>
+
+<h2><strong>2024</strong></h2>
+<ul>
+  <li> [Aug 2024] Passed PhD qualifying exam </li>
+  <li> [May 2024] Joined <a href="https://www.qualcomm.com/">Qualcomm</a> standards team in San Diego, CA as a summer intern </li>
+  <li> [Mar 2024] <a href="https://ieeexplore.ieee.org/document/10632801">Paper</i></a> UAV-based indoor localization is accepted for publication at IEEE DySPAN Workshops 2024, Washington, DC </li>
+</ul>
+
+<h2><strong>2023</strong></h2>
+<ul>
+  <li> [Oct 2023] <a href="https://ieeexplore.ieee.org/document/10355106">Paper </i></a> on NTN-based localization for 6G is accepted for publication in IEEE Wireless Communications </li>
+  <li> [Apr 2023] <a href="https://ieeexplore.ieee.org/document/10139944">Paper</i></a> on CRLB sensitivity analysis for UAV-based indoor localization is accepted for publication at IEEE/ION PLANS 2023, Monterey, CA </li>
+</ul>
+
+<h2><strong>2022</strong></h2>
+<ul>
+  <li> [Sep 2022] Joined Wireless at <a href="https://www.vt.edu/">Virginia Tech</a> as a PhD student</li>
+</ul>
+
+<h2><strong>2020</strong></h2>
+<ul>
+  <li> Promoted to Lead Engineer at WiSig Networks Pvt Ltd </li>
+</ul>
+
+<h2><strong>2017</strong></h2>
+<ul>
+  <li> Joined as a Research Engineer at WiSig Networks Pvt Ltd </li>
+</ul>
+
+<h2><strong>2016</strong></h2>
+<ul>
+  <li> Graduated with an MTech degree from IIT Hyderabad </li>
 </ul>
