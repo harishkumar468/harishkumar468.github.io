@@ -61,3 +61,8 @@ News and Updates
 <ul>
   <li> [Jul 2016] Graduated with an MTech degree from <a href="https://www.iith.ac.in/">Indian Institute of Technology (IIT) Hyderabad</a> </li>
 </ul>
+
+<h2><strong>2014</strong></h2>
+<ul>
+  <li> [May 2014] Graduated with a BTech degree from <a href="https://rguktrkv.ac.in/">RGUKT, RK Valley</a> </li>
+</ul>
