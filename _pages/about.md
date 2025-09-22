@@ -50,13 +50,10 @@ News and Updates
   <li> [Sep 2022] Joined Wireless at <a href="https://www.vt.edu/">Virginia Tech</a> as a PhD student</li>
 </ul>
 
-<h2><strong>2020</strong></h2>
+<h2><strong>2017 - 2020</strong></h2>
 <ul>
   <li> [Aug 2020] Promoted to Lead Engineer at <a href="https://wisig.com/">WiSig Networks Pvt Ltd</a> </li>
-</ul>
-
-<h2><strong>2017</strong></h2>
-<ul>
+  <li> [Oct'17 - Aug'20] Filed several <a href="https://patents.google.com/?q=WiSig+Networks&inventor=Harish+Kumar+Dureppagari&oq=inventor:(Harish+Kumar+Dureppagari)">Patents</a>, <a href="https://www.freepatentsonline.com/result.html?sort=relevance&srch=top&query_txt=Harish+Kumar+Dureppagari%2C+WiSig+Networks&submit=&patents_us=on">(FPO Link)</a> while working at WiSig Networks
   <li> [Oct 2017] Joined as a Research Engineer at <a href="https://wisig.com/">WiSig Networks Pvt Ltd</a> </li>
 </ul>
 
