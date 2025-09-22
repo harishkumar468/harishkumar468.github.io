@@ -35,13 +35,14 @@ News and Updates
 <ul>
   <li> [Aug 2024] Passed PhD qualifying exam </li>
   <li> [May 2024] Joined <a href="https://www.qualcomm.com/">Qualcomm</a> standards team in San Diego, CA as a summer intern </li>
-  <li> [Mar 2024] <a href="https://ieeexplore.ieee.org/document/10632801">Paper</i></a> UAV-based indoor localization is accepted for publication at IEEE DySPAN Workshops 2024, Washington, DC </li>
+  <li> [Mar 2024] <a href="https://ieeexplore.ieee.org/document/10632801">Paper</a> UAV-based indoor localization is accepted for publication at IEEE DySPAN Workshops 2024, Washington, DC </li>
 </ul>
 
 <h2><strong>2023</strong></h2>
 <ul>
-  <li> [Oct 2023] <a href="https://ieeexplore.ieee.org/document/10355106">Paper </i></a> on NTN-based localization for 6G is accepted for publication in IEEE Wireless Communications </li>
-  <li> [Apr 2023] <a href="https://ieeexplore.ieee.org/document/10139944">Paper</i></a> on CRLB sensitivity analysis for UAV-based indoor localization is accepted for publication at IEEE/ION PLANS 2023, Monterey, CA </li>
+  <li> [Oct 2023] <a href="https://ieeexplore.ieee.org/document/10355106">Paper</a> on NTN-based localization for 6G is accepted for publication in IEEE Wireless Communications </li>
+  <li> [Jun 2023] Joined <a href="https://www.nokia.com/">Nokia</a> standards team in Naperville, IL as a summer intern </li>
+  <li> [Apr 2023] <a href="https://ieeexplore.ieee.org/document/10139944">Paper</a> on CRLB sensitivity analysis for UAV-based indoor localization is accepted for publication at IEEE/ION PLANS 2023, Monterey, CA </li>
 </ul>
 
 <h2><strong>2022</strong></h2>
@@ -51,15 +52,15 @@ News and Updates
 
 <h2><strong>2020</strong></h2>
 <ul>
-  <li> Promoted to Lead Engineer at WiSig Networks Pvt Ltd </li>
+  <li> [Aug 2020] Promoted to Lead Engineer at <a href="https://wisig.com/">WiSig Networks Pvt Ltd</a> </li>
 </ul>
 
 <h2><strong>2017</strong></h2>
 <ul>
-  <li> Joined as a Research Engineer at WiSig Networks Pvt Ltd </li>
+  <li> [Oct 2017] Joined as a Research Engineer at <a href="https://wisig.com/">WiSig Networks Pvt Ltd</a> </li>
 </ul>
 
 <h2><strong>2016</strong></h2>
 <ul>
-  <li> Graduated with an MTech degree from IIT Hyderabad </li>
+  <li> [Jul 2016] Graduated with an MTech degree from <a href="https://www.iith.ac.in/">Indian Institute of Technology (IIT) Hyderabad</a> </li>
 </ul>
