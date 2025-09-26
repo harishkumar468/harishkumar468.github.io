@@ -78,7 +78,7 @@ author_profile: true
 
 		<strong>A Novel Positioning Framework: Two-Stage Weighted Projection with NLOS Bias Modeling</strong><br>
 		H. K. Dureppagari, R. M. Buehrer, and H. S. Dhillon <br>
-		<i>in Proc. IEEE ICC Workshops</i>, Montreal, Canada, Jun. 2025.<br>
+		<i>in Proc. IEEE ICC Workshops</i>, Montreal, Canada, Jun. 2025, pp. 1476-1481. [<a href="https://ieeexplore.ieee.org/abstract/document/11162181">IEEE <i>Xplore</i></a>]<br>
   	</p>
   	<p> 
 

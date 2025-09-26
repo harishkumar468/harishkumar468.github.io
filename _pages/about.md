@@ -28,14 +28,14 @@ News and Updates
   <li> [May 2025] Joined <a href="https://www.qualcomm.com/">Qualcomm</a> standards team in San Diego, CA as a summer intern </li>
   <li> [May 2025] Passed PhD preliminary exam </li>
   <li> [Apr 2025] <a href="https://arxiv.org/abs/2410.18301">Paper</a> on LEO positioning design insights is accepted for publication in IEEE Communications Magazine </li>
-  <li> [Mar 2025] Paper on two-stage localization approach is accepted for publication at IEEE ICC Workshops 2025, Montreal, Canada </li>
+  <li> [Mar 2025] <a href="https://ieeexplore.ieee.org/abstract/document/11162181">Paper</a> on two-stage localization approach is accepted for publication at IEEE ICC Workshops 2025, Montreal, Canada </li>
 </ul>
 
 <h2><strong>2024</strong></h2>
 <ul>
   <li> [Aug 2024] Passed PhD qualifying exam </li>
   <li> [May 2024] Joined <a href="https://www.qualcomm.com/">Qualcomm</a> standards team in San Diego, CA as a summer intern </li>
-  <li> [Mar 2024] <a href="https://ieeexplore.ieee.org/document/10632801">Paper</a> UAV-based indoor localization is accepted for publication at IEEE DySPAN Workshops 2024, Washington, DC </li>
+  <li> [Mar 2024] <a href="https://ieeexplore.ieee.org/document/10632801">Paper</a> on UAV-based indoor localization is accepted for publication at IEEE DySPAN Workshops 2024, Washington, DC </li>
 </ul>
 
 <h2><strong>2023</strong></h2>
@@ -53,16 +53,16 @@ News and Updates
 <h2><strong>2017 - 2020</strong></h2>
 <ul>
   <li> [Aug 2020] Promoted to Lead Engineer at <a href="https://wisig.com/">WiSig Networks Pvt Ltd</a> </li>
-  <li> [Oct'17 - Aug'20] Filed several <a href="https://patents.google.com/?q=WiSig+Networks&inventor=Harish+Kumar+Dureppagari&oq=inventor:(Harish+Kumar+Dureppagari)">Patents</a> <a href="https://www.freepatentsonline.com/result.html?sort=relevance&srch=top&query_txt=Harish+Kumar+Dureppagari%2C+WiSig+Networks&submit=&patents_us=on">(FPO Link)</a> while working at WiSig Networks </li>
+  <li> [Oct'17 - Aug'20] Filed several <a href="https://patents.google.com/?q=WiSig+Networks&inventor=Harish+Kumar+Dureppagari&oq=inventor:(Harish+Kumar+Dureppagari)">Patents</a> while working at WiSig Networks [<a href="https://www.freepatentsonline.com/result.html?sort=relevance&srch=top&query_txt=Harish+Kumar+Dureppagari%2C+WiSig+Networks&submit=&patents_us=on">FPO Link</a>]</li>
   <li> [Oct 2017] Joined as a Research Engineer at <a href="https://wisig.com/">WiSig Networks Pvt Ltd</a> </li>
 </ul>
 
 <h2><strong>2016</strong></h2>
 <ul>
-  <li> [Jul 2016] Graduated with an MTech degree from <a href="https://www.iith.ac.in/">Indian Institute of Technology (IIT) Hyderabad</a> </li>
+  <li> [Jul 2016] Graduated with a Master's degree from <a href="https://www.iith.ac.in/">Indian Institute of Technology (IIT) Hyderabad</a> </li>
 </ul>
 
 <h2><strong>2014</strong></h2>
 <ul>
-  <li> [May 2014] Graduated with a BTech degree from <a href="https://rguktrkv.ac.in/">RGUKT, RK Valley</a> </li>
+  <li> [May 2014] Graduated with a Bachelor's degree from <a href="https://rguktrkv.ac.in/">RGUKT, RK Valley</a> </li>
 </ul>
