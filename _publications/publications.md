@@ -34,7 +34,7 @@ author_profile: true
 
 		<strong>LEO-based Positioning: Foundations, Signal Design, and Receiver Enhancements for 6G NTN</strong><br>
 		H. K. Dureppagari, C. Saha, H. Krishnamurthy, X. F. Wang, A. Rico-Alvariño, R. M. Buehrer, and H. S. Dhillon<br>
-		<i>IEEE Communications Magazine</i>, to appear. [<a href="https://arxiv.org/abs/2410.18301">arXiv</a>]<br>
+		<i>IEEE Communications Magazine</i>, Jun. 2025. [<a href="https://ieeexplore.ieee.org/document/11049853">IEEE <i>Xplore</i></a>] [<a href="https://arxiv.org/abs/2410.18301">arXiv</a>]<br>
   	</p>
  	<p>
 

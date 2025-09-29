@@ -14,7 +14,7 @@ author_profile: true
             <li> Cramér–Rao lower bound (CRLB) based analyses by considering various system parameters. </li>
             <li> Algorithms for enhanced accuracy with low-complexity: Two-Stage Weighted Projection (TS-WPM), Reformulated IPPM. </li>
         </ul>
-	<strong><i>Resulted Publications</i></strong>: <a href="https://arxiv.org/abs/2502.19354v1">Low-Complexity TS-WPM</a>, <a href="https://arxiv.org/abs/2503.12264">Indoor Positioning for Public Safety</a>, <a href="https://ieeexplore.ieee.org/document/10632801">Analytical Framework + Reformulated IPPM</a>, <a href="https://ieeexplore.ieee.org/document/10139944">CRLB Sensitivity Analysis</a> <br>
+	<strong><i>Resulted Publications</i></strong>: Low-Complexity TS-WPM (<a href="https://arxiv.org/abs/2502.19354v1">Journal</a>, <a href="https://ieeexplore.ieee.org/abstract/document/11162181">Conference</a>), <a href="https://ieeexplore.ieee.org/document/10632801">Analytical Framework + Reformulated IPPM</a>, <a href="https://ieeexplore.ieee.org/document/10139944">CRLB Sensitivity Analysis</a> <br>
 	<strong><i>Collaborators</i></strong>: Prof. Harpreet S. Dhillon and Prof. R. Michael Buehrer
     </li>
     <li> NTN-based 6G localization
@@ -23,7 +23,7 @@ author_profile: true
             <li> Prospective study items for NTN-based accurate positioning in 6G: Multi-LEO positioning, GNSS + LEO positioning. </li>
             <li> Design insights for LEO-based NTN positioning: LEO constellation, navigation signaling, initial acquisition, precise positioning. </li>
         </ul>
-	<strong><i>Resulted Publications</i></strong>: <a href="https://arxiv.org/abs/2410.18301">LEO Positioning Design Insights</a>, <a href="https://ieeexplore.ieee.org/document/10355106">Study Items for NTN-based 6G Localization</a>, <a href="https://arxiv.org/abs/2506.00706">Björck Sequences for LEO-based PNT Systems</a><br>
+	<strong><i>Resulted Publications</i></strong>: <a href="https://ieeexplore.ieee.org/document/11049853">LEO Positioning Design Insights</a>, <a href="https://ieeexplore.ieee.org/document/10355106">Study Items for NTN-based 6G Localization</a>, <a href="https://arxiv.org/abs/2506.00706">Björck Sequences for LEO-based PNT Systems</a><br>
 	<strong><i>Collaborators</i></strong>: Prof. Harpreet S. Dhillon, Prof. R. Michael Buehrer, and Dr. Chiranjib Saha
     </li>
     <li> 3GPP-compliant simulation frameworks to assess the positioning performance. </li>
