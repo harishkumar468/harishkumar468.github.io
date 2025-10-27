@@ -14,7 +14,7 @@ author_profile: true
             <li> Cramér–Rao lower bound (CRLB) based analyses by considering various system parameters. </li>
             <li> Algorithms for enhanced accuracy with low-complexity: Two-Stage Weighted Projection (TS-WPM), Reformulated IPPM. </li>
         </ul>
-	<strong><i>Resulted Publications</i></strong>: Low-Complexity TS-WPM (<a href="https://arxiv.org/abs/2502.19354v1">Journal</a>, <a href="https://ieeexplore.ieee.org/abstract/document/11162181">Conference</a>), <a href="https://ieeexplore.ieee.org/document/10632801">Analytical Framework + Reformulated IPPM</a>, <a href="https://ieeexplore.ieee.org/document/10139944">CRLB Sensitivity Analysis</a> <br>
+	<strong><i>Resulted Publications</i></strong>: Low-Complexity TS-WPM (<a href="https://ieeexplore.ieee.org/document/11196015">Journal</a>, <a href="https://ieeexplore.ieee.org/abstract/document/11162181">Conference</a>), <a href="https://ieeexplore.ieee.org/document/10632801">Analytical Framework + Reformulated IPPM</a>, <a href="https://ieeexplore.ieee.org/document/10139944">CRLB Sensitivity Analysis</a> <br>
 	<strong><i>Collaborators</i></strong>: Prof. Harpreet S. Dhillon and Prof. R. Michael Buehrer
     </li>
     <li> NTN-based 6G localization
