@@ -72,7 +72,7 @@ author_profile: true
 
 		<strong>Applicability of Björck Sequences to NTN-Based Localization</strong><br>
 		H. K. Dureppagari, C. Saha, R. M. Buehrer, and H. S. Dhillon <br>
-		<i>in Proc. IEEE MILCOM</i>, Los Angeles, CA, USA, Oct. 2025.<br>
+		<i>in Proc. IEEE MILCOM</i>, Los Angeles, CA, USA, Oct. 2025, pp. 1-6. [<a href="https://ieeexplore.ieee.org/abstract/document/11310769">IEEE <i>Xplore</i></a>]<br>
   	</p>
   	<p> 
 
