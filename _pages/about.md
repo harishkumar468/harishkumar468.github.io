@@ -24,7 +24,7 @@ News and Updates
 <h2><strong>2025</strong></h2>
 <ul>
   <li> [Sep 2025] <a href="https://ieeexplore.ieee.org/document/11196015">Paper</a> on two-stage localization framework is accepted for publication in IEEE Transactions on Wireless Communications </li>
-  <li> [Aug 2025] Paper on Björck sequences for positioning is accepted for publication at IEEE MILCOM 2025, Los Angeles, CA </li>
+  <li> [Aug 2025] <a href="https://ieeexplore.ieee.org/abstract/document/11310769">Paper</a> on Björck sequences for positioning is accepted for publication at IEEE MILCOM 2025, Los Angeles, CA </li>
   <li> [May 2025] Joined <a href="https://www.qualcomm.com/">Qualcomm</a> standards team in San Diego, CA as a summer intern </li>
   <li> [May 2025] Passed PhD preliminary exam </li>
   <li> [Apr 2025] <a href="https://ieeexplore.ieee.org/document/11049853">Paper</a> on LEO positioning design insights is accepted for publication in IEEE Communications Magazine </li>
