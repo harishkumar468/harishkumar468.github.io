@@ -12,6 +12,12 @@ author_profile: true
 {% endif %}
 	
 <h2> <strong> Journal Publications</strong> </h2>
+ 	<p>
+
+		<strong>Experimental Validation of Large-Scale Distributed MIMO With Real-Time Adaptive Modulation</strong><br>
+		P. Muralimohan, S. Bisoyi, P. R. Manne, H. K. Dureppagari, and K. Kuchi <br>
+		<i>IEEE OJ-COMS</i>, vol. 7, pp. 1153-1162, 2026. [<a href="https://ieeexplore.ieee.org/document/10857324">IEEE <i>Xplore</i></a>]<br>
+  	</p>
 	<p>
 
 		<strong>On the Use of Björck Sequences in LEO-based PNT Systems</strong><br>
@@ -28,13 +34,13 @@ author_profile: true
 
 		<strong>Two-Stage Weighted Projection for Reliable Low-Complexity Cooperative and Non-Cooperative Localization</strong><br>
 		H. K. Dureppagari, R. M. Buehrer, and H. S. Dhillon<br>
-		<i>IEEE Transactions on Wireless Communications</i>, 2025. [<a href="https://ieeexplore.ieee.org/document/11196015">IEEE <i>Xplore</i></a>] [<a href="https://arxiv.org/abs/2502.19354v1">arXiv</a>]<br>
+		<i>IEEE Transactions on Wireless Communications</i>, vol. 25, pp. 5029-5045, 2026. [<a href="https://ieeexplore.ieee.org/document/11196015">IEEE <i>Xplore</i></a>] [<a href="https://arxiv.org/abs/2502.19354v1">arXiv</a>]<br>
 	</p>
    	<p> 
 
 		<strong>LEO-based Positioning: Foundations, Signal Design, and Receiver Enhancements for 6G NTN</strong><br>
 		H. K. Dureppagari, C. Saha, H. Krishnamurthy, X. F. Wang, A. Rico-Alvariño, R. M. Buehrer, and H. S. Dhillon<br>
-		<i>IEEE Communications Magazine</i>, Jun. 2025. [<a href="https://ieeexplore.ieee.org/document/11049853">IEEE <i>Xplore</i></a>] [<a href="https://arxiv.org/abs/2410.18301">arXiv</a>]<br>
+		<i>IEEE Communications Magazine</i>, vol. 63, no. 11, pp. 130-137, Nov. 2025. [<a href="https://ieeexplore.ieee.org/document/11049853">IEEE <i>Xplore</i></a>] [<a href="https://arxiv.org/abs/2410.18301">arXiv</a>]<br>
   	</p>
  	<p>
 
