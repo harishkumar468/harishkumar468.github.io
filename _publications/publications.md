@@ -16,7 +16,7 @@ author_profile: true
 
 		<strong>Experimental Validation of Large-Scale Distributed MIMO With Real-Time Adaptive Modulation</strong><br>
 		P. Muralimohan, S. Bisoyi, P. R. Manne, H. K. Dureppagari, and K. Kuchi <br>
-		<i>IEEE OJ-COMS</i>, vol. 7, pp. 1153-1162, Jan. 2026. [<a href="https://ieeexplore.ieee.org/document/10857324">IEEE <i>Xplore</i></a>]<br>
+		<i>IEEE Open Journal of the Communications Society (OJ-COMS)</i>, vol. 7, pp. 1153-1162, Jan. 2026. [<a href="https://ieeexplore.ieee.org/document/10857324">IEEE <i>Xplore</i></a>]<br>
   	</p>
 	<p>
 
@@ -34,7 +34,7 @@ author_profile: true
 
 		<strong>Two-Stage Weighted Projection for Reliable Low-Complexity Cooperative and Non-Cooperative Localization</strong><br>
 		H. K. Dureppagari, R. M. Buehrer, and H. S. Dhillon<br>
-		<i>IEEE Transactions on Wireless Communications</i>, vol. 25, pp. 5029-5045, Oct. 2025. [<a href="https://ieeexplore.ieee.org/document/11196015">IEEE <i>Xplore</i></a>] [<a href="https://arxiv.org/abs/2502.19354v1">arXiv</a>]<br>
+		<i>IEEE Transactions on Wireless Communications (TWC)</i>, vol. 25, pp. 5029-5045, Oct. 2025. [<a href="https://ieeexplore.ieee.org/document/11196015">IEEE <i>Xplore</i></a>] [<a href="https://arxiv.org/abs/2502.19354v1">arXiv</a>]<br>
 	</p>
    	<p> 
 
@@ -90,7 +90,7 @@ author_profile: true
 
 		<strong>Meeting IMT-2030 Performance Targets: The Potential of OTFDM Waveform and Structural MIMO Technologies</strong><br>
 		S. Bisoyi, P. Muralimohan, K. R. Gudimetla, S. Kumari, H. K. Dureppagari, S. T. Veetil, S. A. K. Makandar, P. R. Manne, S. Amuru, and K. Kuchi<br>
-		<i>in Proc. IEEE ITU Kaleidoscope: Innovation and Digital Transformation for a Sustainable World (ITU K)</i>, New Delhi, India, 2024, pp. 1-10. [<a href="https://ieeexplore.ieee.org/abstract/document/10772838">IEEE <i>Xplore</i></a>]<br>
+		<i>in Proc. IEEE ITU Kaleidoscope</i>, New Delhi, India, 2024, pp. 1-10. [<a href="https://ieeexplore.ieee.org/abstract/document/10772838">IEEE <i>Xplore</i></a>]<br>
   	</p>
    	<p> 
 
