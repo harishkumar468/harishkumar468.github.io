@@ -16,7 +16,7 @@ author_profile: true
 
 		<strong>Experimental Validation of Large-Scale Distributed MIMO With Real-Time Adaptive Modulation</strong><br>
 		P. Muralimohan, S. Bisoyi, P. R. Manne, H. K. Dureppagari, and K. Kuchi <br>
-		<i>IEEE OJ-COMS</i>, vol. 7, pp. 1153-1162, 2026. [<a href="https://ieeexplore.ieee.org/document/10857324">IEEE <i>Xplore</i></a>]<br>
+		<i>IEEE OJ-COMS</i>, vol. 7, pp. 1153-1162, Jan. 2026. [<a href="https://ieeexplore.ieee.org/document/10857324">IEEE <i>Xplore</i></a>]<br>
   	</p>
 	<p>
 
