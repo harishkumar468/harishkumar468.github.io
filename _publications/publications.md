@@ -34,7 +34,7 @@ author_profile: true
 
 		<strong>Two-Stage Weighted Projection for Reliable Low-Complexity Cooperative and Non-Cooperative Localization</strong><br>
 		H. K. Dureppagari, R. M. Buehrer, and H. S. Dhillon<br>
-		<i>IEEE Transactions on Wireless Communications</i>, vol. 25, pp. 5029-5045, 2026. [<a href="https://ieeexplore.ieee.org/document/11196015">IEEE <i>Xplore</i></a>] [<a href="https://arxiv.org/abs/2502.19354v1">arXiv</a>]<br>
+		<i>IEEE Transactions on Wireless Communications</i>, vol. 25, pp. 5029-5045, Oct. 2025. [<a href="https://ieeexplore.ieee.org/document/11196015">IEEE <i>Xplore</i></a>] [<a href="https://arxiv.org/abs/2502.19354v1">arXiv</a>]<br>
 	</p>
    	<p> 
 
