@@ -7,6 +7,10 @@ author_profile: true
 
 <ul>
   <li>
+    <a href="https://www.ofinno.com/">Ofinno</a>, Reston, VA <br>
+    <i>Senior Engineer, 6G Innovation Lab</i>, Feb. 2026 - Present
+  </li>
+  <li>
     <a href="https://www.qualcomm.com/">Qualcomm Incorporated</a>, San Diego, CA <br>
     <i>Interim Engineering Intern, Qualcomm Standards</i>, May. 2025 - Aug. 2025
   </li>
