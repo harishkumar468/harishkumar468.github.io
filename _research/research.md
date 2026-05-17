@@ -23,7 +23,7 @@ author_profile: true
             <li> Prospective study items for NTN-based accurate positioning in 6G: Multi-LEO positioning, GNSS + LEO positioning. </li>
             <li> Design insights for LEO-based NTN positioning: LEO constellation, navigation signaling, initial acquisition, precise positioning. </li>
         </ul>
-	<strong><i>Resulted Publications</i></strong>: <a href="https://ieeexplore.ieee.org/document/11049853">LEO Positioning Design Insights</a>, <a href="https://ieeexplore.ieee.org/document/10355106">Study Items for NTN-based 6G Localization</a>, <a href="https://arxiv.org/abs/2506.00706">Björck Sequences for LEO-based PNT Systems</a><br>
+	<strong><i>Resulted Publications</i></strong>: <a href="https://ieeexplore.ieee.org/document/10355106">Study Items for NTN-based 6G Localization</a>, <a href="https://ieeexplore.ieee.org/document/11049853">LEO Positioning Design Insights</a>, Björck Sequences for LEO-based PNT Systems (<a href="https://arxiv.org/abs/2506.00706">Journal</a>, <a href="https://ieeexplore.ieee.org/abstract/document/11310769/">Conference</a>), <a href="https://arxiv.org/abs/2603.18360">LEO-based Carrier Phase Positioning</a><br>
 	<strong><i>Collaborators</i></strong>: Prof. Harpreet S. Dhillon, Prof. R. Michael Buehrer, and Dr. Chiranjib Saha
     </li>
     <li> 3GPP-compliant simulation frameworks to assess the positioning performance. </li>

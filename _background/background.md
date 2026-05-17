@@ -7,7 +7,7 @@ author_profile: true
 
 <ul>
   <li>
-    <a href="https://www.vt.edu/">Virginia Tech</a> <i>(Fall 2022 - Present)</i> <br>
+    <a href="https://www.vt.edu/">Virginia Tech</a> <i>(Fall 2022 - Apr. 2026)</i> <br>
     Ph.D. in Electrical Engineering <br>
     Advisors: <a href="https://www.dhillon.ece.vt.edu/index.html">Prof. Harpreet S. Dhillon</a>, 
     <a href="https://ece.vt.edu/people/profile/buehrer.html">Prof. R. Michael Buehrer</a> <br>
@@ -27,5 +27,6 @@ author_profile: true
 
 <h1> <strong> Awards</strong> </h1>
 <ul>
+<li> Pratt Fellowship Award 2026} from the Electrical and Computer Engineering Department at Virginia Tech for maintaining a strong academic record throughout Ph.D. </li>
 <li> Best Paper Award (Honorable Mention), COMSNETS, 2020  </li>		
 </ul>
