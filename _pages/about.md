@@ -8,10 +8,9 @@ redirect_from:
 ---
 About Me
 =
-I am Harish Kumar Dureppagari and I received my Ph.D. degree from <a href="https://www.vt.edu/">Virginia Tech</a> in the Department of <a href="https://ece.vt.edu/index.html">Electrical and Computer Engineering</a>. As part of my Ph.D., I focused on advancing localization techniques for 5G and 6G networks, with a particular emphasis on Non-Terrestrial Networks (NTN). My research primarily revolves around designing robust positioning algorithms, developing comprehensive evaluation frameworks, and conducting thorough performance analyses leveraging information inequalities.
+I am Harish Kumar Dureppagari, currently working as a Wireless System Integration Engineer at <a href="https://www.apple.com">Apple</a>, San Francisco Bay Area, CA. Before that, I graduated with a Ph.D. in Wireless Communications from <a href="https://www.vt.edu/">Virginia Tech</a> in the Department of <a href="https://ece.vt.edu/index.html">Electrical and Computer Engineering</a>, where I focused on advancing localization techniques for 5G and 6G networks, with a particular emphasis on Non-Terrestrial Networks (NTN). My doctoral research primarily centered around designing robust positioning algorithms, developing comprehensive evaluation frameworks, and conducting thorough performance analyses leveraging information inequalities.
 
 I have also held summer internship positions at <a href="https://www.nokia.com/">Nokia</a>, IL (Summer 2023), and <a href="https://www.qualcomm.com/">Qualcomm</a>, San Diego, CA (Summers 2024 and 2025). Prior to pursuing my Ph.D., I worked as a Lead Engineer at <a href="https://wisig.com/">WiSig Networks Pvt Ltd</a>, where I contributed to the design of beamforming and scheduling algorithms for 4G/5G Massive MIMO systems and developed a 3GPP-compliant system-level simulator for their validation.
-
 
 <h2><strong>Research Interests</strong></h2>
 <ul>
@@ -24,6 +23,7 @@ News and Updates
 =
 <h2><strong>2026</strong></h2>
 <ul>
+  <li> [Feb 2026] Joined Apple, San Francisco Bay Area, CA as a Wireless System Integration Engineer </li>
   <li> [Apr 2026] Successfully defended Ph.D. Dissertation </li>
   <li> [Feb 2026] Joined Ofinno, VA as a 6G Standards Research Engineer in their 6G innovation team </li>
 </ul>
