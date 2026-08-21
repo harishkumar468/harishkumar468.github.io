@@ -7,6 +7,10 @@ author_profile: true
 
 <ul>
   <li>
+    <a href="https://www.apple.com">Apple</a>, San Francisco Bay Area, CA <br>
+    <I>Wireless System Integration Engineer</i>, Aug. 2026 - Present
+  </li>  
+  <li>
     <a href="https://www.ofinno.com/">Ofinno</a>, Reston, VA <br>
     <I>6G Standards Research Engineer, 6G Innovation Lab</i>, Feb. 2026 - Aug. 2026
   </li>
