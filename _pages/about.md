@@ -23,7 +23,7 @@ News and Updates
 =
 <h2><strong>2026</strong></h2>
 <ul>
-  <li> [Feb 2026] Joined Apple, San Francisco Bay Area, CA as a Wireless System Integration Engineer </li>
+  <li> [Aug 2026] Joined Apple, San Francisco Bay Area, CA as a Wireless System Integration Engineer </li>
   <li> [Apr 2026] Successfully defended Ph.D. Dissertation </li>
   <li> [Feb 2026] Joined Ofinno, VA as a 6G Standards Research Engineer in their 6G innovation team </li>
 </ul>
