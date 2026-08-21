@@ -25,7 +25,7 @@ News and Updates
 <h2><strong>2026</strong></h2>
 <ul>
   <li> [Apr 2026] Successfully defended Ph.D. Dissertation </li>
-  <li> [Feb 2026] Joined Ofinno, VA as a Senior Engineer in their 6G innovation team </li>
+  <li> [Feb 2026] Joined Ofinno, VA as a 6G Standards Research Engineer in their 6G innovation team </li>
 </ul>
 
 <h2><strong>2025</strong></h2>
