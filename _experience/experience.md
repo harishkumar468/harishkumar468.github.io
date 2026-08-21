@@ -8,7 +8,7 @@ author_profile: true
 <ul>
   <li>
     <a href="https://www.ofinno.com/">Ofinno</a>, Reston, VA <br>
-    <i>Senior Engineer, 6G Innovation Lab</i>, Feb. 2026 - Present
+    <I>6G Standards Research Engineer, 6G Innovation Lab</i>, Feb. 2026 - Aug. 2026
   </li>
   <li>
     <a href="https://www.qualcomm.com/">Qualcomm Incorporated</a>, San Diego, CA <br>
