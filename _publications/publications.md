@@ -13,7 +13,11 @@ author_profile: true
 	
 <h2> <strong> Journal Publications</strong> </h2>
 	<p>
-
+		<strong>Björck Sequences: Extension to Arbitrary Lengths, Correlation Analysis, and Applications to Wireless Systems</strong><br>
+		H. K. Dureppagari, C. Saha, R. M. Buehrer, and H. S. Dhillon<br>
+		submitted. [<a href="https://arxiv.org/abs/2506.00706">arXiv</a>]<br>
+	</p>
+	<p>
 		<strong>LEO-based Carrier-Phase Positioning for 6G: Design Insights and Comparison with GNSS</strong><br>
 		H. K. Dureppagari, H. Krishnamurthy, C. Saha, X. F. Wang, A. Rico-Alvariño, R. M. Buehrer, and H. S. Dhillon<br>
 		submitted. [<a href="https://arxiv.org/abs/2603.18360">arXiv</a>]<br>
@@ -24,12 +28,6 @@ author_profile: true
 		P. Muralimohan, S. Bisoyi, P. R. Manne, H. K. Dureppagari, and K. Kuchi <br>
 		<i>IEEE Open Journal of the Communications Society (OJ-COMS)</i>, vol. 7, pp. 1153-1162, Jan. 2026. [<a href="https://ieeexplore.ieee.org/document/10857324">IEEE <i>Xplore</i></a>]<br>
   	</p>
-	<p>
-
-		<strong>On the Use of Björck Sequences in LEO-based PNT Systems</strong><br>
-		H. K. Dureppagari, C. Saha, R. M. Buehrer, and H. S. Dhillon<br>
-		submitted. [<a href="https://arxiv.org/abs/2506.00706">arXiv</a>]<br>
-	</p>
 	<p>
 
 		<strong>Indoor Positioning for Public Safety: Role of UAVs, LEOs, and Propagation-Aware Techniques</strong><br>
