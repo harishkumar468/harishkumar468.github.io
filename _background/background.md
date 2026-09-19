@@ -27,6 +27,6 @@ author_profile: true
 
 <h1> <strong> Awards</strong> </h1>
 <ul>
-<li> Pratt Fellowship Award 2026} from the Electrical and Computer Engineering Department at Virginia Tech for maintaining a strong academic record throughout Ph.D. </li>
+<li> Pratt Fellowship Award 2026 from the Electrical and Computer Engineering Department at Virginia Tech for maintaining a strong academic record throughout Ph.D. </li>
 <li> Best Paper Award (Honorable Mention), COMSNETS, 2020  </li>		
 </ul>
