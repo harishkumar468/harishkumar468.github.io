@@ -20,7 +20,7 @@ author_profile: true
 	<p>
 		<strong>LEO-based Carrier-Phase Positioning for 6G: Design Insights and Comparison with GNSS</strong><br>
 		H. K. Dureppagari, H. Krishnamurthy, C. Saha, X. F. Wang, A. Rico-Alvariño, R. M. Buehrer, and H. S. Dhillon<br>
-		submitted. [<a href="https://arxiv.org/abs/2603.18360">arXiv</a>]<br>
+		<i>IEEE Communications Magazine</i>, to appear. [<a href="https://arxiv.org/abs/2603.18360">arXiv</a>]<br>
 	</p>
  	<p>
 
