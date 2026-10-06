@@ -23,7 +23,7 @@ News and Updates
 =
 <h2><strong>2026</strong></h2>
 <ul>
-  <li> [Oct 2026] <a href="https://arxiv.org/abs/2603.18360">Paper</a> on LEO-based carrier phase positioning is accepted for publication in IEEE Communications Magazine </li>
+  <li> [Oct 2026] <a href="https://arxiv.org/abs/2603.18360">Paper</a> on LEO-based carrier phase positioning accepted for publication in IEEE Communications Magazine </li>
   <li> [Aug 2026] Joined <a href="https://www.apple.com">Apple</a>, San Francisco Bay Area, CA as a Wireless System Engineer </li>
   <li> [Apr 2026] Successfully defended Ph.D. Dissertation </li>
   <li> [Feb 2026] Joined Ofinno, VA as a 6G Standards Research Engineer in their 6G innovation team </li>
@@ -31,26 +31,26 @@ News and Updates
 
 <h2><strong>2025</strong></h2>
 <ul>
-  <li> [Sep 2025] <a href="https://ieeexplore.ieee.org/document/11196015">Paper</a> on two-stage localization framework is accepted for publication in IEEE Transactions on Wireless Communications </li>
-  <li> [Aug 2025] <a href="https://ieeexplore.ieee.org/abstract/document/11310769">Paper</a> on Björck sequences for positioning is accepted for publication at IEEE MILCOM 2025, Los Angeles, CA </li>
+  <li> [Sep 2025] <a href="https://ieeexplore.ieee.org/document/11196015">Paper</a> on two-stage localization framework accepted for publication in IEEE Transactions on Wireless Communications </li>
+  <li> [Aug 2025] <a href="https://ieeexplore.ieee.org/abstract/document/11310769">Paper</a> on Björck sequences for positioning accepted for publication at IEEE MILCOM 2025, Los Angeles, CA </li>
   <li> [May 2025] Joined <a href="https://www.qualcomm.com/">Qualcomm</a> standards team in San Diego, CA as a summer intern </li>
   <li> [May 2025] Passed PhD preliminary exam </li>
-  <li> [Apr 2025] <a href="https://ieeexplore.ieee.org/document/11049853">Paper</a> on LEO positioning design insights is accepted for publication in IEEE Communications Magazine </li>
-  <li> [Mar 2025] <a href="https://ieeexplore.ieee.org/abstract/document/11162181">Paper</a> on two-stage localization approach is accepted for publication at IEEE ICC Workshops 2025, Montreal, Canada </li>
+  <li> [Apr 2025] <a href="https://ieeexplore.ieee.org/document/11049853">Paper</a> on LEO positioning design insights accepted for publication in IEEE Communications Magazine </li>
+  <li> [Mar 2025] <a href="https://ieeexplore.ieee.org/abstract/document/11162181">Paper</a> on two-stage localization approach accepted for publication at IEEE ICC Workshops 2025, Montreal, Canada </li>
 </ul>
 
 <h2><strong>2024</strong></h2>
 <ul>
   <li> [Aug 2024] Passed PhD qualifying exam </li>
   <li> [May 2024] Joined <a href="https://www.qualcomm.com/">Qualcomm</a> standards team in San Diego, CA as a summer intern </li>
-  <li> [Mar 2024] <a href="https://ieeexplore.ieee.org/document/10632801">Paper</a> on UAV-based indoor localization is accepted for publication at IEEE DySPAN Workshops 2024, Washington, DC </li>
+  <li> [Mar 2024] <a href="https://ieeexplore.ieee.org/document/10632801">Paper</a> on UAV-based indoor localization accepted for publication at IEEE DySPAN Workshops 2024, Washington, DC </li>
 </ul>
 
 <h2><strong>2023</strong></h2>
 <ul>
-  <li> [Oct 2023] <a href="https://ieeexplore.ieee.org/document/10355106">Paper</a> on NTN-based localization for 6G is accepted for publication in IEEE Wireless Communications </li>
+  <li> [Oct 2023] <a href="https://ieeexplore.ieee.org/document/10355106">Paper</a> on NTN-based localization for 6G accepted for publication in IEEE Wireless Communications </li>
   <li> [Jun 2023] Joined <a href="https://www.nokia.com/">Nokia</a> standards team in Naperville, IL as a summer intern </li>
-  <li> [Apr 2023] <a href="https://ieeexplore.ieee.org/document/10139944">Paper</a> on CRLB sensitivity analysis for UAV-based indoor localization is accepted for publication at IEEE/ION PLANS 2023, Monterey, CA </li>
+  <li> [Apr 2023] <a href="https://ieeexplore.ieee.org/document/10139944">Paper</a> on CRLB sensitivity analysis for UAV-based indoor localization accepted for publication at IEEE/ION PLANS 2023, Monterey, CA </li>
 </ul>
 
 <h2><strong>2022</strong></h2>
